@@ -1,0 +1,4 @@
+{
+  "main": "dist/web3sdks-sdk-evm.cjs.js",
+  "module": "dist/web3sdks-sdk-evm.esm.js"
+}

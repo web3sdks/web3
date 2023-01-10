@@ -1,0 +1,4 @@
+{
+  "main": "dist/web3sdks-auth-next-auth.cjs.js",
+  "module": "dist/web3sdks-auth-next-auth.esm.js"
+}

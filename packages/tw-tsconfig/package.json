@@ -1,0 +1,17 @@
+{
+  "name": "@web3sdks/tsconfig",
+  "version": "0.0.1",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "files": [
+    "base.json",
+    "node14.json",
+    "nextjs.json",
+    "react-library.json",
+    "sdk.json"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": "https://github.com/web3sdks/web3/tree/main/packages/tw-tsconfig"
+}

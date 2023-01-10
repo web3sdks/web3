@@ -1,0 +1,4 @@
+{
+  "main": "dist/web3sdks-react-solana.cjs.js",
+  "module": "dist/web3sdks-react-solana.esm.js"
+}

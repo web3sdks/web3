@@ -1,0 +1,4 @@
+{
+  "main": "dist/web3sdks-contracts-js-factories-TWMultichainRegistry__factory.cjs.js",
+  "module": "dist/web3sdks-contracts-js-factories-TWMultichainRegistry__factory.esm.js"
+}

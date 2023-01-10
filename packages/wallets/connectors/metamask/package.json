@@ -1,0 +1,4 @@
+{
+  "main": "dist/web3sdks-wallets-connectors-metamask.cjs.js",
+  "module": "dist/web3sdks-wallets-connectors-metamask.esm.js"
+}
