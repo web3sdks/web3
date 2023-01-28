@@ -7,7 +7,7 @@ import { ethers, providers } from "ethers";
 /**
  * @internal
  */
-export const DEFAULT_IPFS_GATEWAY = "https://gateway.ipfscdn.io/ipfs/";
+export const DEFAULT_IPFS_GATEWAY = "https://ipfs.web3sdks.com/ipfs/";
 
 type ChainNames =
   | "mainnet"
