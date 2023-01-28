@@ -1,6 +1,6 @@
 {
   "name": "@web3sdks/sdk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The main web3sdks SDK.",
   "repository": "https://github.com/web3sdks/web3/tree/main/packages/sdk",
   "license": "Apache-2.0",
