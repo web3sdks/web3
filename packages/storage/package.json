@@ -1,6 +1,6 @@
 {
   "name": "@web3sdks/storage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/web3sdks-storage.cjs.js",
   "module": "dist/web3sdks-storage.esm.js",
   "exports": {
