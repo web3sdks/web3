@@ -307,7 +307,7 @@ export class IpfsUploader implements IStorageUploader<IpfsUploadBatchOptions> {
     });
     const body = await res.json();
     if (!res.ok) {
-      console.warn(body);
+      console.warn("Ipfs upload error, body: ", body, ", response: ", res);
       throw new Error("Failed to upload files to IPFS");
     }
 
