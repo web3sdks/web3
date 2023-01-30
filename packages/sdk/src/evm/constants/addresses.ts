@@ -28,11 +28,11 @@ export const CONTRACT_ADDRESSES: Record<
 > = {
   [ChainId.Mainnet]: {
     openzeppelinForwarder: OZ_DEFENDER_FORWARDER_ADDRESS,
-    openzeppelinForwarderEOA: "0x0000000000000000000000000000000000000000",
-    biconomyForwarder: "0x0000000000000000000000000000000000000000",
+    openzeppelinForwarderEOA: "0x29ce93BAD941e89b4661121195275C1132e777FE",
+    biconomyForwarder: "0x170F1B2E15262860E65296A213Bff22f2378E189",
     twFactory: "0xD9CEE8cB329Ea726F92A87Dc118A39Db3b93250B",
     twRegistry: "0x5fd766aD7E861d12D3aBd6428fF19E363BDB8b7b",
-    twBYOCRegistry: "0x0000000000000000000000000000000000000000",
+    twBYOCRegistry: "0x9762ec95fc18FCbAe018d8f99D81FDBDE34019EF",
   },
 
   [ChainId.Goerli]: {
@@ -155,7 +155,7 @@ export const APPROVED_IMPLEMENTATIONS: Record<
     "nft-drop": "0xF2CF34a9928a6aB04881bfEaAC5BedB6d05Abc27",
     "edition-drop": "0xbc3D10e91D5fE510f6Fa8C8c4e285B9811BC928c",
     "token-drop": "0x5e1c754f28b7E8458Ec4E440F9187856bfeb048c",
-    "signature-drop": "0x0000000000000000000000000000000000000000",
+    "signature-drop": "0x0183EaFfF53061DfA5E1Ee2a528c30E140ab41CE",
   },
   [ChainId.Polygon]: {
     "nft-drop": "0x106a6080ef4889458D25f4404a88f20B5b30f560",
